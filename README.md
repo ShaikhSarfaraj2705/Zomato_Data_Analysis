@@ -51,6 +51,7 @@ The main goal of this analysis is to:
 
 ### 2️⃣ Online Order vs Rating
 <img width="676" height="649" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/61f65ec6-7e35-4071-a785-dd7058d15e2a" />
+
 - Restaurants offering **online orders** tend to have **higher ratings**.
 - This indicates customers prefer and rate online-order-enabled restaurants better.
 
@@ -75,6 +76,7 @@ The main goal of this analysis is to:
 
 ### 5️⃣ Type of Restaurant vs Votes
 <img width="748" height="550" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/94758474-e74d-4123-9645-78f3a21f6055" />
+
 - **Dining** restaurants receive the highest number of votes.
 - This indicates they attract more customers and engagement.
   
