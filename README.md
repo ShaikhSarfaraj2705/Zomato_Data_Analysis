@@ -67,6 +67,7 @@ The main goal of this analysis is to:
 
 ### 4️⃣ Restaurant Type Distribution
 <img width="712" height="538" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/556f8822-695d-4153-832c-1b8ddd5c4ccf" />
+
 - The dataset is dominated by **Dining** restaurants.
 - **Cafes** and **Buffets** are less common.
 
@@ -76,6 +77,7 @@ The main goal of this analysis is to:
 <img width="748" height="550" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/94758474-e74d-4123-9645-78f3a21f6055" />
 - **Dining** restaurants receive the highest number of votes.
 - This indicates they attract more customers and engagement.
+  
 
 <img width="677" height="536" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/0cd4e6a9-d7ef-4f89-b257-b2ba80ac8a0c" />
 
